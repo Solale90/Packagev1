@@ -10,7 +10,7 @@ var styles = StyleSheet.create({
     },
     TopText:{
         color:"#FFF",
-        fontWeight:"bold"
+        fontSize: 14
     }
 });
 
